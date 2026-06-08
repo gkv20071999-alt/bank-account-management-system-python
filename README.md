@@ -20,27 +20,6 @@ A GUI-based Bank Account Management System developed using Python and Tkinter. T
 * Python 3
 * Tkinter (GUI Library)
 
-## 📂 Project Structure
-
-```text
-Bank-Account-Management-System/
-│
-├── bank_account.py
-├── README.md
-└── screenshots/
-```
-
-## ▶️ How to Run
-
-1. Install Python 3 on your system.
-2. Download or clone this repository.
-3. Open the project folder.
-4. Run the following command:
-
-```bash
-python bank_account.py
-```
-
 ## 📸 Application Functions
 
 ### Create Account
@@ -93,7 +72,5 @@ This project helps beginners understand:
 ## 👨‍💻 Author
 
 Gajendra Verma
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
 
    
